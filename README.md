@@ -1,5 +1,5 @@
 # Nadesikoder
-AtCoderのABCの全問題の解答をなでしこで作成するプロジェクト。
+AtCoderのABCのAC可能な全問題の解答をなでしこで作成するプロジェクト。
 
 ## 環境構築の仕方について
 1. はじめに、(node,js公式サイト)[https://nodejs.org/ja]にアクセスします。
